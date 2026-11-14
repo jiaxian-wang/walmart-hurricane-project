@@ -42,9 +42,6 @@ The data files are in [`data/`](data/). We used the [Open-Meteo Historical Weath
 
 Walmart should prioritize emergency supplies and breakfast products before the next hurricane. Each store’s recent sales can help determine how much inventory to send and when to replenish it. For board games, Walmart should add a modest amount of stock at stores where recent sales indicate higher demand.
 
-## Presentation
-[Walmart Hurricane Analytics — Slide Deck](https://docs.google.com/presentation/d/1domtjSWQY79Nu9PBBj9QncLghYbe7tT6uwxU3HvO6lU/edit)
-
 ## Reflection
 
 The five reflection responses are at the end of the final notebook under **Reflection**.
